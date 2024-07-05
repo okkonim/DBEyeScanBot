@@ -7,7 +7,7 @@ import bcrypt
 
 
 class Database:
-    TOKEN = '7023800923:AAG13gK077SgYnhFlyxCUD7rEXfp4OxrDX4'
+    TOKEN = 'TOKEN'
 
     def __init__(self, dbname, user, password, host):
         self.conn = psycopg2.connect(
