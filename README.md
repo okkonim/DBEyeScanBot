@@ -34,15 +34,11 @@
 ## Примеры использования
 
 ### Аутентификация пользователя
-
-    ```bash
     /login <username> <password>
 
 ### Просмотр личных данных
-    ```bash
     /personal_data <citizen_id>
 
 ### Просмотр результатов сканирования
-    ```bash
     /scan_results <citizen_id>
 
